@@ -3,7 +3,7 @@ import time
 import pandas as pd
 
 # Certificate properties
-text_color = (100, 100, 200)
+text_color = (39,71,92)
 font_size = 140
 coustard_black = ImageFont.truetype(font="fonts/Coustard-Regular.ttf", size=font_size)
 
