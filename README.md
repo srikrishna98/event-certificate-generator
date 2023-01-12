@@ -1,5 +1,5 @@
 # certificate-generator
-A simple python automated script to generate certificates for acm workshops
+A simple python automated script to generate certificates for ACM workshops
 
 clone the repo
 
